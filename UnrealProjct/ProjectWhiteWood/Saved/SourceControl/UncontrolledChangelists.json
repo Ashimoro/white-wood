@@ -305,7 +305,12 @@
 				"C:/Users/Sicilisi/Documents/GitHub/white-wood/UnrealProjct/ProjectWhiteWood/Content/Prototype_Click_and_Drag.umap",
 				"C:/Users/Sicilisi/Documents/GitHub/white-wood/UnrealProjct/ProjectWhiteWood/Content/UI/Images_UI/UI_TextPrototype.uasset",
 				"C:/Users/Sicilisi/Documents/GitHub/white-wood/UnrealProjct/ProjectWhiteWood/Content/UI/Drag_Drop_UI/WB_BackGround.uasset",
-				"C:/Users/Sicilisi/Documents/GitHub/white-wood/UnrealProjct/ProjectWhiteWood/Content/UI/Drag_Drop_UI/WB_TextSlot.uasset"
+				"C:/Users/Sicilisi/Documents/GitHub/white-wood/UnrealProjct/ProjectWhiteWood/Content/UI/Drag_Drop_UI/WB_TextSlot.uasset",
+				"C:/Users/Sicilisi/Documents/GitHub/white-wood/UnrealProjct/ProjectWhiteWood/Content/UI/Drag_Drop_UI/TextSlots_UI/WB_TextSlot.uasset",
+				"C:/Users/Sicilisi/Documents/GitHub/white-wood/UnrealProjct/ProjectWhiteWood/Content/UI/Drag_Drop_UI/TextSlots_UI/WB_TextSlot1.uasset",
+				"C:/Users/Sicilisi/Documents/GitHub/white-wood/UnrealProjct/ProjectWhiteWood/Content/UI/Drag_Drop_UI/TextSlots_UI/WB_Dragged.uasset",
+				"C:/Users/Sicilisi/Documents/GitHub/white-wood/UnrealProjct/ProjectWhiteWood/Content/UI/Drag_Drop_UI/TextSlots_UI/WB_DraggedImage.uasset",
+				"C:/Users/Sicilisi/Documents/GitHub/white-wood/UnrealProjct/ProjectWhiteWood/Content/UI/Drag_Drop_UI/OBJ_UI/BP_DragDropComponent.uasset"
 			]
 		}
 	]
