@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\chris\\Documents\\GitHub\\Year3\\white-wood\\UnrealProjct\\ProjectWhiteWood\\Intermediate\\Source\\ProjectWhiteWood.Build.cs",
+		"C:\\Users\\chris\\Documents\\GitHub\\Year3\\white-wood\\UnrealProjct\\ProjectWhiteWood\\Intermediate\\Source\\ProjectWhiteWood.Target.cs",
+		"C:\\Users\\chris\\Documents\\GitHub\\Year3\\white-wood\\UnrealProjct\\ProjectWhiteWood\\Intermediate\\Source\\ProjectWhiteWoodClient.Target.cs",
+		"C:\\Users\\chris\\Documents\\GitHub\\Year3\\white-wood\\UnrealProjct\\ProjectWhiteWood\\Intermediate\\Source\\ProjectWhiteWoodEditor.Target.cs",
+		"C:\\Users\\chris\\Documents\\GitHub\\Year3\\white-wood\\UnrealProjct\\ProjectWhiteWood\\Intermediate\\Source\\ProjectWhiteWoodServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
