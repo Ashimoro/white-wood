@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/salamec/Downloads/MyProject/Content/Dialogue/DialogueDataTable.uasset",
+				"C:/Users/salamec/Downloads/MyProject/Content/LevelPrototyping/UIButtonTest/UiTest.uasset",
+				"C:/Users/salamec/Downloads/MyProject/Content/LevelPrototyping/UIButtonTest/BP_pcMenu.uasset",
+				"C:/Users/salamec/Downloads/MyProject/Content/LevelPrototyping/Interactable/BP_MouseOverActor.uasset",
+				"C:/Users/salamec/Downloads/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/3N/GYDUIEZTDDU2464473OFR0.uasset",
+				"C:/Users/salamec/Downloads/MyProject/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/salamec/Downloads/MyProject/Content/Blueprints/NewHUDButtonTest.uasset",
+				"C:/Users/chris/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/UIButtonTest/UiTest.uasset",
+				"C:/Users/chris/Documents/Unreal Projects/MyProject/Content/Blueprints/NewHUDButtonTest.uasset",
+				"C:/Users/chris/Documents/Unreal Projects/MyProject/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/chris/Documents/Unreal Projects/MyProject/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/chris/Documents/Unreal Projects/MyProject/Content/Dialogue/dialogue_Structure.uasset",
+				"C:/Users/chris/Documents/Unreal Projects/MyProject/Content/Dialogue/DialogueDataTable.uasset"
+			]
+		}
+	]
+}
