@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Shiro/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/TitlePrototyping/BP_Options_UI.uasset",
-				"C:/Users/Shiro/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/TitlePrototyping/BP_Title_UI.uasset",
 				"C:/Users/pappinm/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/Levels/Lvl_TitleScreen.umap",
 				"C:/Users/pappinm/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/TitlePrototyping/BP_Title_UI.uasset",
 				"C:/Users/pappinm/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/TitlePrototyping/JPG_filler_background.uasset",
@@ -16,6 +14,9 @@
 				"C:/Users/pappinm/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/TopDown/Lvl_TopDown.umap",
 				"C:/Users/pappinm/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"C:/Users/pappinm/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/Levels/MenuTest.uasset",
+				"C:/Users/pappinm/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/TitlePrototyping/BP_Options_UI.uasset",
+				"C:/Users/Shiro/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/TitlePrototyping/BP_Options_UI.uasset",
+				"C:/Users/Shiro/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/TitlePrototyping/BP_Title_UI.uasset",
 				"C:/Users/Sicilisi/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/__ExternalActors__/TopDown/Lvl_TopDown/A/UI/FYPDNBRF80ZC1CFUDAJ8O0.uasset",
 				"C:/Users/Sicilisi/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/BP/BUPDHPEMHC4VKWBMQ8RZHT.uasset",
 				"C:/Users/Sicilisi/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/__ExternalActors__/TopDown/Lvl_TopDown/D/SH/PW0AQVQUKM8YU4NRQMBZNU.uasset",
