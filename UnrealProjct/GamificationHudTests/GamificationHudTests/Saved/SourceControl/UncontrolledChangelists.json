@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/salamec/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/BP_MailSystemActor.uasset",
+				"C:/Users/salamec/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/UI/Interactable_Objects/MailSystem/BP_MailSystemActorDay1.uasset",
+				"C:/Users/salamec/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/UI/Interactable_Objects/MailSystem/BP_MailSystemActor.uasset",
+				"C:/Users/salamec/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/UI/Interactable_Objects/MailSystem/BP_MailSystemActorDay2True.uasset",
+				"C:/Users/salamec/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/__ExternalActors__/Levels/Lvl_Day2Truth/9/EB/MPGJNVJPV1OHQKWB39S2W3.uasset",
+				"C:/Users/salamec/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/UI/Interactable_Objects/MailSystem/BP_MailSystemDay2TRUE.uasset",
+				"C:/Users/salamec/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/UI/Interactable_Objects/MailSystem/BP_MailSystemDay2FALSE.uasset",
 				"C:/Users/chris/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/UIButtonTest/UiTest.uasset",
 				"C:/Users/chris/Documents/Unreal Projects/MyProject/Content/Blueprints/NewHUDButtonTest.uasset",
 				"C:/Users/chris/Documents/Unreal Projects/MyProject/Content/TopDown/Blueprints/BP_TopDownController.uasset",
