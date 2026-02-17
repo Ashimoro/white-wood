@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/salamec/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/UI/Interactable_Objects/Article/BP_Lvl1pcMenu.uasset",
+				"C:/Users/salamec/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/__ExternalActors__/Levels/Lvl_Day2False/2/FO/21KODBPKZG8RAH26PZZD1T.uasset",
+				"C:/Users/salamec/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/__ExternalActors__/Levels/Lvl_TopDown/C/9F/VO7U507K5EUT9PTIDCUK7F.uasset",
+				"C:/Users/salamec/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/UI/Interactable_Objects/MailSystem/BP_MailSystemActorDay1.uasset",
+				"C:/Users/salamec/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/UI/Interactable_Objects/MailSystem/BP_MailSystemActorDay2.uasset",
 				"C:/Users/pappinm/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/Levels/Lvl_TitleScreen.umap",
 				"C:/Users/pappinm/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/Levels/MenuTest.uasset",
 				"C:/Users/pappinm/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/BP_MailSystemActor.uasset",
