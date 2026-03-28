@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/silvi/OneDrive/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/Environmental/Door/LowPolyDoor.uasset",
+				"C:/Users/silvi/OneDrive/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/Environmental/Door/openPBR_shader1.uasset",
+				"C:/Users/silvi/OneDrive/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/Environmental/Door/Material/openPBR_shader1.uasset",
+				"C:/Users/silvi/OneDrive/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/Environmental/MailBox/Material/openPBR_shader2.uasset",
+				"C:/Users/silvi/OneDrive/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/Environmental/Desk/Materials/openPBR_shader1.uasset",
+				"C:/Users/silvi/OneDrive/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/Environmental/MailBox/LowPolyMailBoxFbx.uasset",
+				"C:/Users/silvi/OneDrive/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/Environmental/Desk/LowPolyTableFbx.uasset",
 				"C:/Users/salamec/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/UI/Interactable_Objects/Article/BP_Lvl1pcMenu.uasset",
 				"C:/Users/salamec/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/__ExternalActors__/Levels/Lvl_Day2False/2/FO/21KODBPKZG8RAH26PZZD1T.uasset",
 				"C:/Users/salamec/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/__ExternalActors__/Levels/Lvl_TopDown/C/9F/VO7U507K5EUT9PTIDCUK7F.uasset",
