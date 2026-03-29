@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/silvi/OneDrive/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/UI/Interactable_Objects/Article/BP_Lvl1pcMenu.uasset",
+				"C:/Users/silvi/OneDrive/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/UI/Interactable_Objects/Article/BP_Lvl2pcMenu.uasset",
+				"C:/Users/silvi/OneDrive/Documents/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/UI/Interactable_Objects/Article/BP_Lvl3pcMenu.uasset",
 				"D:/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/UI/Interactable_Objects/Article/BP_Lvl1pcMenu.uasset",
 				"D:/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/UI/Interactable_Objects/Article/Textures/Image_Articlewindow_ArticleUI.uasset",
 				"D:/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_Assets/UI/Interactable_Objects/Article/Textures/Image_Desktop_ArticleUI.uasset",
