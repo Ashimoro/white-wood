@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/Characters/Pigeon/BS_Pigeon.uasset",
+				"C:/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/Characters/Pigeon/ABP_Pigeon.uasset",
+				"C:/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/_TopDown/Blueprints/BP_Pigeon.uasset",
+				"C:/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/Characters/Pigeon/Animations/Pigeon-Run.uasset",
+				"C:/GitHub/white-wood/UnrealProjct/GamificationHudTests/GamificationHudTests/Content/__ExternalActors__/Levels/Lvl_TopDown/8/VS/CSFVZF4JLDI2OFTA3CBRNF.uasset",
 				"C:/Users/chris/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/UIButtonTest/UiTest.uasset",
 				"C:/Users/chris/Documents/Unreal Projects/MyProject/Content/Blueprints/NewHUDButtonTest.uasset",
 				"C:/Users/chris/Documents/Unreal Projects/MyProject/Content/TopDown/Blueprints/BP_TopDownController.uasset",
