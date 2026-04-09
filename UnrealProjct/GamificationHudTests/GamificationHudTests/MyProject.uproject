@@ -19,5 +19,8 @@
 			"Name": "ConsoleVariables",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
